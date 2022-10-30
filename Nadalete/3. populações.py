@@ -10,7 +10,7 @@ while A < B:
     A = A * 1.10 
     B = B * 1.05 
     anos1 = anos1 + 1 
-print(f'A população de A alcançará B em em {anos1} anos.')
+print(f'A população de A alcançará B em {anos1} anos.')
 
 while ((A2-C)/C ) <= 0.23: 
     A2 = A2 * 1.10 
